@@ -52,6 +52,9 @@ function get_provider_name {
     "0x228822581CB5A26F89a2aBBDFEb9ac1A635316a1")
       echo "Kablarasa"
       ;;
+    "0x85fd381aF98C15A68D1cBf48B18557c53FF96264")
+      echo "Logan"
+      ;;
     *)
       echo "Unknown"
       ;;
