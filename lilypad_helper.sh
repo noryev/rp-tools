@@ -32,28 +32,34 @@ function get_provider_name {
   
   case $address in
     "0xf5AefbbcF28FC0a8c7fc8B86d2070281fBB32Ae7")
-      echo "Jaco"
+      echo "jo"
       ;;
     "0x102272dB860Ed4fcaC73eB0E1785441aaAF4a303")
-      echo "Jaco"
+      echo "jo"
       ;;
     "0xC44CB6599bEc03196fD230208aBf4AFc68514DD2")
-      echo "James"
+      echo "js"
       ;;
     "0x68614eE52ba024A458369E11DC1fFd876bbcE705")
-      echo "Lindsay"
+      echo "ly"
       ;;
     "0xA7f9BD3837279C3776B17b952D97C619f3892BDE")
-      echo "Alex"
+      echo "ax"
       ;;
     "0xB971f0E067c8365AE9500B1Eca6560d9f7ED356D")
-      echo "Kablarasa"
+      echo "ka"
       ;;
     "0x228822581CB5A26F89a2aBBDFEb9ac1A635316a1")
-      echo "Kablarasa"
+      echo "ka"
       ;;
     "0x85fd381aF98C15A68D1cBf48B18557c53FF96264")
-      echo "Logan"
+      echo "ln"
+      ;;
+    "0x70f37FD79f2FA8d0e10440eb5f7220A0F2fc3619")
+      echo "ln"
+      ;;
+    "0x8F5ceDcD71e2eE636290eF6Fd81f1f92C0C9E733")
+      echo "ln"
       ;;
     *)
       echo "Unknown"
